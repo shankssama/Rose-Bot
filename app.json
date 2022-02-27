@@ -1,7 +1,7 @@
 {
-  "name": "Kochubot",
+  "name": "Shanksbot",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/1925c7a2f601539ccde7a.png",
+  "logo": "https://telegra.ph/file/bcc47db0d13c5127323cc.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Shankssama/tgbot",
+  "repository": "https://github.com/Shankssama/Shanksbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
@@ -27,14 +27,14 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "SonOfLars"
+      "value": "Unknown_Dead_Sama"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
       "value": "ANYTHING"
     },
     "URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/"
+      "description": "The Heroku App URL similar to https://Zorogojo.herokuapp.com/"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
